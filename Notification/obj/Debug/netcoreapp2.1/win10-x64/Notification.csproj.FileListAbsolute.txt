@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Notification\Notification\bin\Debug\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Admin\source\repos\Notification\Notification\bin\Debug\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Admin\source\repos\Notification\Notification\bin\Debug\netcoreapp2.1\win10-x64\Notification.exe
+C:\Users\Admin\source\repos\Notification\Notification\bin\Debug\netcoreapp2.1\win10-x64\Notification.deps.json
+C:\Users\Admin\source\repos\Notification\Notification\bin\Debug\netcoreapp2.1\win10-x64\Notification.runtimeconfig.json
+C:\Users\Admin\source\repos\Notification\Notification\bin\Debug\netcoreapp2.1\win10-x64\Notification.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Notification\Notification\bin\Debug\netcoreapp2.1\win10-x64\Notification.dll
+C:\Users\Admin\source\repos\Notification\Notification\bin\Debug\netcoreapp2.1\win10-x64\Notification.pdb
+C:\Users\Admin\source\repos\Notification\Notification\obj\Debug\netcoreapp2.1\win10-x64\Notification.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Notification\Notification\obj\Debug\netcoreapp2.1\win10-x64\Notification.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Notification\Notification\obj\Debug\netcoreapp2.1\win10-x64\Notification.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Notification\Notification\obj\Debug\netcoreapp2.1\win10-x64\Notification.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Notification\Notification\obj\Debug\netcoreapp2.1\win10-x64\Notification.dll
+C:\Users\Admin\source\repos\Notification\Notification\obj\Debug\netcoreapp2.1\win10-x64\Notification.pdb
