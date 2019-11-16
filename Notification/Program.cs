@@ -12,6 +12,7 @@ namespace Notification
         // static readonly HttpClient client = new HttpClient();
         static async Task CallWebAPIAsync()
         {
+            //// command new
             //using (var response = request.GetResponse() as HttpWebResponse)
             //{
             // var request = WebRequest.Create("http://localhost:12698/token") as HttpWebRequest;
