@@ -34,7 +34,7 @@ namespace Notification
             //catch (HttpRequestException e)
             //{
             // Console.WriteLine("\nException Caught!");
-            // Console.WriteLine("Message :{0} ", e.Message);
+            Console.WriteLine("Message :{0} ", e.Message);
             //}
         }
         static void Main(string[] args)
